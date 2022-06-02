@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LivenTask</string>
+    <string name="title_add_order_screen">Generate Invoice</string>
+    <string name="plus_sing">+</string>
+    <string name="minus_sign">-</string>
+    <string name="title_flat_discount">Flat Discount</string>
+    <string name="title_advance_payment">Advance Payment</string>
+    <string name="title_discount">Discount %</string>
+    <string name="title_payment">Payment by</string>
+    <string name="title_generate_invoice">Generate Invoice</string>
+    <string name="title_customer_name">Customer Name</string>
+    <string name="select_item">Item</string>
+    <string name="add_items">Save</string>
+    <string name="title_add_items">Add Items</string>
+    <string name="title_items">Items</string>
+    <string name="error_customer_name_empty">Please enter customer name</string>
+    <string name="error_payment_mode">Please select payment mode</string>
+    <string name="error_add_items">Please add order item</string>
+    <string name="str_share_file">Share File</string>
+    <string name="str_invoice_created">Invoice Created</string>
+    <string name="str_error_invoice">Invoice not created</string>
+    <string name="invoice">Invoice</string>
+    <string name="title_invoice">INVOICE</string>
+    <string name="str_total">Total</string>
+    <string name="str_sub_total">Sub Total</string>
+    <string name="str_discount">Discount</string>
+    <string name="tax_surchange">TAX (Surcharges)</string>
+    <string name="str_advance_payment">Advance Payment</string>
+    <string name="title_paid_amount">Paid Amount</string>
+    <string name="erro_valid_amount">Please enter valid amount</string>
+    <string name="str_paid">Paid Amount</string>
+    <string name="str_returned">Returned Amount</string>
+    <string name="str_remaining">Remaining Amount</string>
+</resources>

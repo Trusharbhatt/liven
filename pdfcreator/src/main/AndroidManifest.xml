@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.trushar.pdfcreator">
+
+    <application>
+        <activity android:name="com.trushar.pdfcreator.activity.PDFViewerActivity" />
+        <activity
+            android:name="com.trushar.pdfcreator.activity.PDFCreatorActivity"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>
